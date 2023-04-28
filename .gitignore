@@ -6,6 +6,8 @@ node_modules/
 *.tsbuildinfo
 kaggle_files/
 .idea/
+azure_credentials.py
+DigiCertGlobalRootCA.crt.pem
 
 # Created by https://www.gitignore.io/api/python
 # Edit at https://www.gitignore.io/?templates=python
